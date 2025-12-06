@@ -27,7 +27,7 @@ body{background:linear-gradient(180deg,#071025 0%, #0f1724 60%);-webkit-font-smo
 .btn{display:inline-block;padding:.65rem .95rem;background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#fff;border-radius:10px;text-decoration:none;font-weight:700}
 .outline-btn{display:inline-block;padding:.55rem .8rem;border-radius:10px;color:var(--muted);border:1px solid rgba(255,255,255,0.06);text-decoration:none;margin-left:.5rem}
 
-.profile-photo{width:100%;height:auto;border-radius:12px;display:block;object-fit:cover;box-shadow:0 10px 30px rgba(2,6,23,0.6)}
+.profile-photo{width:300px;height:auto;border-radius:12px;display:block;object-fit:cover;box-shadow:0 10px 30px rgba(2,6,23,0.6)}
 
 .services{padding:2rem 0 4rem}
 .services-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1.25rem}
